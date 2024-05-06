@@ -47,3 +47,6 @@ Comunmente co datos debemos hacer secuencias de persepcion con modelos a traves 
 los datos tienen distints maneras de analizarce 
 76 78 / 78 78
 en una imagen se debe mdificar el modelo a generar, para un modelo identificar placas es complicado, es totalmente distinto, se busca un patron mediante una morfologia, buscar que patrones existen, se debe tratar de particularizar, osea identificar algo en particular, y generalizar se busca a partir de todos los datos me diga en general sepa reconocerlo y sepa identificarlo, que sea petalo o iris pues, sin decirle, identificarlo solo 
+
+
+# ANALISIS DEL EJERCICIO DE COMO SERIA LA DATASET DE LA NAVE Y EL MARCIANO ESQUIVANDO LAS 3 BALAS 
