@@ -50,3 +50,11 @@ en una imagen se debe mdificar el modelo a generar, para un modelo identificar p
 
 
 # ANALISIS DEL EJERCICIO DE COMO SERIA LA DATASET DE LA NAVE Y EL MARCIANO ESQUIVANDO LAS 3 BALAS 
+
+par ael de la cara es el fisherface, eigenface
+
+incendios, asaltos, robo a casa habitacion inundaciones y tornados
+
+
+
+shi
